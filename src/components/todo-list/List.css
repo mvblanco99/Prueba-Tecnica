@@ -1,0 +1,26 @@
+.container-list{
+    width: 100%;
+}
+
+.container-list h2{
+    text-align: center;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 10px 0px;
+    align-items: center;
+}
+
+.list p{
+    min-width: 30%;
+}
+
+#form-checked{
+    width: 10px;
+    border: none;
+}
+
